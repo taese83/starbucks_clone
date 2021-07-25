@@ -7,4 +7,4 @@
     - HTML
 
 ### 데모
-    - https://vigilant-einstein-eccd9f.netlify.app/
+[스타벅스](https://vigilant-einstein-eccd9f.netlify.app "스타벅스 클록 사이트 이동")
